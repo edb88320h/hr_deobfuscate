@@ -1,1 +1,1 @@
-# hr_deobfuscate
+IDA plugin to deobfuscate smth patterns
